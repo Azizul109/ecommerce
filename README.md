@@ -1,1 +1,1 @@
-### This mern stack ecomm website
+### This is mern stack ecomm website
